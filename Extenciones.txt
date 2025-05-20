@@ -1,0 +1,11 @@
+EXTENCIONES PARA VSC
+
+-Bracket Pair Colorization
+-Prettier
+-Quokka.js
+-Quokka Statusbar
+
+-INSTALAR NODE.js (Desde el navegador)
+
+
+

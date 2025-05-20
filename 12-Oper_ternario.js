@@ -1,0 +1,7 @@
+// SIMPLIFICAR LA SINTAXIS DE IF PERO SI EL CODIGO SOLO ES DE UNA SOLA LINEA.
+// ? SI ES POSITIVO
+// : SI ES NEGATIVO
+
+let miNumero = 0;
+
+(miNumero > 0) ? console.log("POSITIVO") : console.log("NEGATIVO")
